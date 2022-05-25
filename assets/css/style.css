@@ -1029,6 +1029,16 @@ section {
   transition: 0.4s;
   border-radius: 50px;
 }
+
+.x button[type=submit] {
+  background: #3F51B5;
+  border: 0;
+  padding: 10px 30px 12px 30px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
 .contact .php-email-form button[type=submit]:hover {
   background: #3dc8b7;
 }
